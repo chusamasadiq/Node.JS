@@ -1,0 +1,11 @@
+{
+  "name": "simple_api",
+  "version": "1.0.0",
+  "description": "Today I'm going to develop the first API of my Life. 15/12/2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Usama Sadiq",
+  "license": "ISC"
+}

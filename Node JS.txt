@@ -1,0 +1,46 @@
+-------
+Node JS
+-------
+
+node -v
+npm -v
+REPL (Read, Print, Eval, Loop)
+Experimenting & Debug with the JavaScript code
+
+----
+REPL
+----
+
+Exit REPL
+.exit
+
+Open Editor
+.editor
+
+
+-----------------------------
+Create New File
+example:- type nul > index.js
+-----------------------------
+
+--------------------
+Node JS Core Modules
+--------------------
+Featues 
+1. Play Operating Systems
+2. More Power
+
+Modules
+fs: File System
+os: Operating System
+
+
+
+
+
+
+
+
+
+
+
